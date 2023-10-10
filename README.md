@@ -29,28 +29,30 @@ GetList = panel.GetList()
 [
     {
         "id":3,
-"username":"liwyd",
-"password":"liwydpasswd",
-"email":null,
-"mobile":null,
-"multiuser":"5",
-"start_date":"2023-10-05",
-"end_date":"2067-07-05",
-"date_one_connect":"0",
-"customer_user":"Ali",
-"status":"active",
-"traffic":"102400",
-"referral":"",
-"desc":null,
-"created_at":"2023-10-05T11:34:53.000000Z",
-"updated_at":"2023-10-05T21:02:03.000000Z",
-"traffics":[{"id":3,
-"username":"liwyd",
-"download":"3559",
-"upload":"7127",
-"total":"10686",
-"created_at":"2023-10-05T11:34:53.000000Z",
-"updated_at":"2023-10-10T19:23:34.000000Z"}]}]
+        "username":"liwyd",
+        "password":"liwydpasswd",
+        "email":null,
+        "mobile":null,
+        "multiuser":"5",
+        "start_date":"2023-10-05",
+        "end_date":"2067-07-05",
+        "date_one_connect":"0",
+        "customer_user":"Ali",
+        "status":"active",
+        "traffic":"102400",
+        "referral":"",
+        "desc":null,
+        "created_at":"2023-10-05T11:34:53.000000Z",
+        "updated_at":"2023-10-05T21:02:03.000000Z",
+        "traffics":[{"id":3,
+        "username":"liwyd",
+        "download":"3559",
+        "upload":"7127",
+        "total":"10686",
+        "created_at":"2023-10-05T11:34:53.000000Z",
+        "updated_at":"2023-10-10T19:23:34.000000Z"}]
+    }
+]
 ```
 
 - Add client
